@@ -1,0 +1,16 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 5rem;
+  object-fit: contain;
+}
+
+.options {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}

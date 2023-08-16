@@ -1,0 +1,28 @@
+.footer {
+  background-color: #08558c;
+  padding: 2rem 0;
+}
+
+.footer,
+.footer a {
+  color: white;
+}
+
+.footer .footer-address {
+  max-width: 9.6rem;
+}
+
+.footer-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.footer-column {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  text-align: left;
+  align-items: flex-start;
+  gap: 0.6rem;
+}
